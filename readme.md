@@ -18,5 +18,5 @@ The AI tutors are specialized in specific subjects, ensuring that the guidance p
 
 ## Screenshots
 
-![Chat Interface](docs/chat.png)
 ![List Interface](docs/list.png)
+![Chat Interface](docs/chat.png)
