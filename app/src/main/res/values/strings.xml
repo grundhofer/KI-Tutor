@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeachGPT</string>
+    <string name="napoleon_intro">Guten Tag, mein Name ist Napoleon Bonaparte, Kaiser der
+        Franzosen und Architekt eines europäischen Imperiums. Ich bin bekannt für meine militärischen Eroberungen und die Einführung des Code Civil. </string>
+    <string name="einstein_intro">Guten Tag, mein Name ist Albert Einstein. Ich bin ein theoretischer Physiker, der für die Entwicklung der Relativitätstheorie bekannt ist, einer der beiden Säulen der modernen Physik.</string>
+    <string name="olaf_intro">Guten Tag, ich bin Olaf Scholz, Bundeskanzler der Bundesrepublik Deutschland. Zuvor diente ich als Finanzminister und Vizekanzler sowie als Erster Bürgermeister von Hamburg.</string>
+    <string name="elon_intro">Hallo, ich bin Elon Musk, der Typ, der Autos ins All schießt und dabei hofft, dass sie den Mars nicht verfehlen. Als CEO von SpaceX und Tesla versuche ich, die Welt zu retten, während ich gleichzeitig coole Flammenwerfer verkaufe.</string>
+    <string name="linus_intro">Hallo, ich bin Linus Torvalds, der Typ, der das Linux-Betriebssystem erfunden hat, weil ich zu geizig war, für ein Betriebssystem zu zahlen. Ich habe auch Git entwickelt, hauptsächlich um sicherzustellen, dass andere Entwickler meine Arbeit nicht ruinieren. Wenn ich nicht gerade neue Versionen des Linux-Kernels veröffentliche oder in Mailinglisten diskutiere, genieße ich es, Entwickler mit meiner charmanten Direktheit zu schockieren.</string>
+</resources>
