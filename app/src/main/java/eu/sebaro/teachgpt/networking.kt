@@ -39,12 +39,7 @@ object OpenApi {
         )
     }
 
-
     suspend fun makeCall(chatCompletionRequest: ChatCompletionRequest): ChatCompletion {
         return openAI.chatCompletion(chatCompletionRequest)
     }
-
 }
-
-
-//
